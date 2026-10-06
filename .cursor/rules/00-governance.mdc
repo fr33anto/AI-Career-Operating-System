@@ -1,0 +1,5 @@
+---
+description: Project governance
+alwaysApply: true
+---
+Follow `/AGENTS.md` and `/docs/MASTER_BLUEPRINT.md`. Implement only the explicitly requested task. Explain in beginner-friendly Indonesian. Stop if decisions conflict or are missing. Never expose secrets or claim unrun tests passed.

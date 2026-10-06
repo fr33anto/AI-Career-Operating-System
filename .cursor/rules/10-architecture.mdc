@@ -1,0 +1,5 @@
+---
+description: Architecture boundaries
+alwaysApply: true
+---
+Use Modular Monolith. Keep UI/domain/infrastructure/AI separate. Public APIs are versioned `/api/v1`. All DB changes use migrations. All LLM requests use server-side AI Gateway. Prefer deterministic code; no microservices/Kubernetes/Kafka for MVP.

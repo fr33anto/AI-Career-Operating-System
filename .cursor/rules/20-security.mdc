@@ -1,0 +1,5 @@
+---
+description: Security and privacy
+alwaysApply: true
+---
+Treat CV/job/URL/upload content as untrusted. Enforce resource ownership. Keep secrets server-side. Private storage and short-lived signed URLs. SSRF-safe URL fetching only. Validate uploads and isolate parsers. Do not log CVs/full prompts/PII. Never weaken security to pass tests.

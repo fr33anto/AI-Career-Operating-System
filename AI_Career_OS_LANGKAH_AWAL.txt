@@ -1,0 +1,11 @@
+AI CAREER OS — LANGKAH AWAL
+1. Extract career-ai-os-starter.zip to C:\Projects\career-ai-os.
+2. Install Cursor, Git, Node.js LTS, pnpm.
+3. Open extracted folder in Cursor.
+4. Read README.md and docs/GETTING_STARTED.md.
+5. Run git init, git add ., git status, git commit -m "chore: initialize AI Career OS specification".
+6. Create a PRIVATE GitHub repository named career-ai-os and push initial commit.
+7. Configure OpenCode with DeepSeek using current official docs.
+8. Start TASK-001 only using docs/TASK_PROMPTS.md; stop for review before TASK-002.
+Never commit .env.local, API keys, real CVs, or personal data.
+This is a repository/documentation scaffold, not a finished SaaS.
